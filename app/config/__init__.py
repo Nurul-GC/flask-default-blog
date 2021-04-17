@@ -1,3 +1,10 @@
+"""
+here we'll
+define our virtual-variables
+as configuration to our project
+"""
+
+
 class Config:
     """project's configuration"""
     DEBUG = True

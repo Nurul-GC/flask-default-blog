@@ -1,3 +1,8 @@
+"""
+here goes all
+definition of our app instance
+"""
+
 from flask import Flask
 from app.config import Config
 
