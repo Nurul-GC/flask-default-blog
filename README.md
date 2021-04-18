@@ -1,6 +1,6 @@
 # flask-default
 
-    training flask
+    default structure to build a blog with flask
 
 ---
 
